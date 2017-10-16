@@ -1,2 +1,2 @@
-Console.log("This is for pull and now i updated")
+Console.log("This is for pull and now i updateddd")
 //comment Test
